@@ -2,9 +2,9 @@
 1. Найти и вывести на экран названия продуктов, их цвет и размер. */
 
 SELECT 
-Name, Color, Size
+	Name, Color, Size
 FROM 
-Production.Product
+	Production.Product
 
 /* 2. Найти и вывести на экран названия, цвет и размер таких продуктов, у которых
 цена более 100. */
